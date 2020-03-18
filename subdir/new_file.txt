@@ -2,3 +2,8 @@ Add a subdirectory: simply type the name of the subdir and then add a "/" (slash
 
 That's easy, intuitive!
 Again: what's wrong?
+
+Hm - nothing's wrong?
+Add a subdirectory and a new file is simply done?
+
+Well - then let's try a commit from here.
